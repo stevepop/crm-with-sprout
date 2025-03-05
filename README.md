@@ -2,7 +2,8 @@
 
 This repository contains the code for a demonstration CRM application built with Laravel and the Sprout package for multi-tenancy. The demo shows how to implement a multi-tenant architecture where tenant data is isolated within a single database while maintaining a single codebase.
 
-![Welcome Page](screenshots/welcome-page.png)
+![welcome](https://github.com/user-attachments/assets/2a44acf2-ddb8-4b72-8855-31475ca3622b)
+
 
 ## Features
 
@@ -14,7 +15,7 @@ This repository contains the code for a demonstration CRM application built with
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![dashboard](https://github.com/user-attachments/assets/93bf40e2-c47f-4e9b-84bf-3f5f759abb05)
 
 ## Getting Started
 
